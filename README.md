@@ -15,3 +15,9 @@ https://kenney.nl/assets/pixel-platformer
 
 ## Created by
 Nathan Mishler
+
+## Edited by
+Ella Beihold
+
+## Github User
+applelushie
